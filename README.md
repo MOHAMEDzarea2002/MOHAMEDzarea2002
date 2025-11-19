@@ -1,6 +1,7 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text=Mohamed%20Ibrahim%20Zarea&width=1000&height=250" />
+  lines=Mohamed+Zarea+Frontend+Developer;React+JS+Expert;Building+High+Performance+UIs
+
 </p>
 
 <h1 align="center">👋 Welcome to My GitHub</h1>
@@ -22,7 +23,7 @@
 - 📦 Familiar with tools like: Vite, Tailwind, Redux, Context API
 - 🌱 Currently mastering **Next.js** + advanced React patterns
 - 💬 Ask me about: React, UI, GitHub Pages, APIs
-- 📫 Email: *(ضيفه لاحقًا)*
+- 📫 Email: *(mohamedzarea84@gmail.com)*
 
 ---
 
@@ -70,10 +71,9 @@
 
 # 🚀 Featured Projects
 
-> *(هيتم عرض أي Repo عندك — انت بس ضيف اللينكات الصح لاحقًا)*
 
 ### 🔹 **E-Commerce React App**
-تطبيق React متكامل بيلف كل شغلك:  
+ 
 ✔ Cart Context — Add / Remove  
 ✔ Filtering — Searching  
 ✔ UI Performance Optimization  
@@ -84,8 +84,7 @@ Components جاهزة reusable بـ Tailwind + React
 🔗 **Repo:** *(ضيف الرابط هنا)*
 
 ### 🔹 **Portfolio Website**
-واجهة شخصية احترافية  
-🔗 **Repo:** *(ضيف الرابط هنا)*
+🔗 **Repo:** *(Null)*
 
 ---
 
