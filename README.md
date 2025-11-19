@@ -1,7 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  lines=Mohamed+Zarea+Frontend+Developer;React+JS+Expert;Building+High+Performance+UIs
-
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text=Mohamed%20Ibrahim%20Zarea&width=1000&height=250" />
 </p>
 
 <h1 align="center">👋 Welcome to My GitHub</h1>
